@@ -55,29 +55,5 @@ Beyond the core cybersecurity domain, I have pursued additional certifications t
 
 [See additional certifications](Additional-Certifications/README.md)
 
-# Coursework and Projects
 
-## Overview
-
-The coursework and projects section showcases the practical application of my cybersecurity knowledge. Each project highlights specific challenges faced and the solutions implemented to overcome them.
-
-## Courses
-
-### Google Cybersecurity (Coursera)
-
-- **Projects:**
-  - Network Security Assessment: Conducted a comprehensive security audit of a simulated company network.
-  - Phishing Attack Prevention: Developed a training module for employees to recognize and respond to phishing attempts.
-
-### Python for Security Professionals (Harvard-edX)
-
-- **Projects:**
-  - Automated Vulnerability Scanner: Created a Python script to automate the process of scanning web applications for known vulnerabilities.
-  - Log Analysis Tool: Developed a tool to analyze security logs and identify suspicious activities.
-
-## Key Learnings
-
-- Gained hands-on experience with real-world cybersecurity challenges.
-- Developed a strong foundation in both defensive and offensive cybersecurity strategies.
-- Enhanced programming skills to automate security tasks and analyze data.
 
